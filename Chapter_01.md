@@ -46,7 +46,8 @@
     - 영국 수학자 드로므간이 발명한 방식으로 불리언대수의 새로운 법칙 추가
     - A AND B => NOT(NOT A OR NOT B) 
     - A OR B => NOT(NOT A AND NOT B)
-
+    - NOT(A AND B) => NOT A OR NOT B 
+    - NOT(A OR B) => NOT A AND NOT B
     
 ### 5. 정수를 비트로 표현하는 방법
 
